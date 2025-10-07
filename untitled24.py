@@ -22,6 +22,9 @@ from ta.volatility import AverageTrueRange
 TELEGRAM_TOKEN = "8294892098:AAFX0Zzq9yN1on6UlID8f7vzif4dWR_7uWs"
 CHAT_ID = 381202205
 
+TELEGRAM_TOKEN = "8384092933:AAGLjBoqqukdZEWoV8_FZHRbQT6QOZOFAQo"
+CHAT_ID = 343376986
+
 BASE_URL = "https://www.okx.com/api/v5"
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 
